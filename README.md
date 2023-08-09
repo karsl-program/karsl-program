@@ -18,10 +18,10 @@
 ### I am currently studying in Grade Six of Guannan Primary School in Xiamen, China. 🌱
 ### Thank you for your attention!
 ### And Thanks😄:
-[ME]("https://program-zoubg.github.io")
-[He Chenyi]("https://github.com/PaJinSenhcy")
-[Zhang Minghan]("https://github.com/zmh-program")
-[zmh-program]("https://zmh-program.site")
+- [ME]("https://program-zoubg.github.io")
+- [He Chenyi]("https://github.com/PaJinSenhcy")
+- [Zhang Minghan]("https://github.com/zmh-program")
+- [zmh-program]("https://zmh-program.site")
 
 <!--
 **program-zoubg/program-zoubg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
