@@ -1,5 +1,5 @@
 ### Hi👋! My name is program-zoubg. Born in 2012, Xiamen, China.
-### I love learning, and I very love Python⚡!
+### I love learning, and I love Python⚡ very much!
 ## 🤔Top programming languages in my mind:
 - Python
 - SwiftUI
