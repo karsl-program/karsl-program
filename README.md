@@ -4,9 +4,8 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 
 ### I love computers and everything about information technology.
 
-### ![program-zoubg's Github Stats](https://stats.deeptrain.net/user/program-zoubg/)
-
-### ![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=program-zoubg&show_icons=true&theme=radical)
+![program-zoubg's Github Stats](https://stats.deeptrain.net/user/program-zoubg/)
+![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=program-zoubg&show_icons=true&theme=dark&include_all_commits=true)
 
 ## Grasp
 - Flask, FastAPI, SMTP, pandas, spaCy, json and more. (Python)
