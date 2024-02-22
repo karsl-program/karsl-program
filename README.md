@@ -6,6 +6,8 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 
 ### ![program-zoubg's Github Stats](https://stats.deeptrain.net/user/program-zoubg/)
 
+### ![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=program-zoubg&show_icons=true&theme=radical)
+
 ## Grasp
 - Flask, FastAPI, SMTP, pandas, spaCy, json and more. (Python)
 - WinAPI, win32, socket, CGI, json, thread, **algorithm** and more. (C++ and Partial C language)
@@ -19,6 +21,8 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 - Swift (Part)
 - C language (Part)
 - SQL (Part)
+- JVM all
+- Rust (many)
 - More……
 
 ## 💬
