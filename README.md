@@ -6,7 +6,11 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 
 ![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=program-zoubg&show_icons=true&theme=dark&include_all_commits=true)
 
+![K-Software-Team's Github Readme](https://github-readme-stats.vercel.app/api?username=k-software-team&show_icons=true&theme=dark&include_all_commits=true)
+
 ![program-zoubg's Github Stats](https://stats.deeptrain.net/user/program-zoubg/)
+
+![K-Software-Team's Github Stats](https://stats.deeptrain.net/user/k-software-team/)
 
 ## Grasp
 - Flask, FastAPI, SMTP, pandas, spaCy, json and more. (Python)
@@ -24,6 +28,10 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 - JVM all
 - Rust (many)
 - More……
+
+## Team
+
+[K Software Team](https://github.com/K-Software-Team)
 
 ## 💬
 ### I am currently studying in Grade Six of Guannan Primary School in Xiamen, China. 🌱
