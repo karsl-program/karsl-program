@@ -10,7 +10,7 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 
 ![program-zoubg's Github Stats](https://stats.deeptrain.net/user/program-zoubg/)
 
-![K-Software-Team's Github Stats](https://stats.deeptrain.net/user/K Software Team/)
+![K-Software-Team's Github Stats](https://stats.deeptrain.net/user/K-Software-Team/)
 
 ## Grasp
 - Flask, FastAPI, SMTP, pandas, spaCy, json and more. (Python)
