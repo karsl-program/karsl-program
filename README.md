@@ -1,4 +1,4 @@
-### Hi👋! My name is program-zoubg. Born in 2012, Xiamen, China.
+### Hi👋! My name is karsl. Born in 2012, Xiamen, China.
 
 I love learning, and I love Python⚡ very much! And Proficient in front-end programming languages
 
@@ -34,5 +34,5 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 [K Software Team](https://github.com/K-Software-Team)
 
 ## 💬
-### I am currently studying in Grade Six of Guannan Primary School in Xiamen, China. 🌱
+### I am a junior high school student from Xiamen No. 1 Middle School Jimei Branch. 🌱
 ### Thank you for your attention!
