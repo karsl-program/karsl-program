@@ -1,4 +1,4 @@
-### Hi👋! My name is karsl. Born in 2012, Xiamen, China.
+### Hi👋! My name is karsl. A boy born in 2012 from Xiamen, Fujian Province, China.
 
 I love learning, and I love Python⚡ very much! And Proficient in front-end programming languages
 
@@ -12,27 +12,34 @@ I love learning, and I love Python⚡ very much! And Proficient in front-end pro
 
 ![K-Software-Team's Github Stats](https://stats.deeptrain.net/user/K-Software-Team/)
 
-## Grasp
-- Flask, FastAPI, SMTP, pandas, spaCy, json and more. (Python)
-- WinAPI, win32, socket, CGI, json, thread, **algorithm** and more. (C++ and Partial C language)
-- TCP, UDP, Socket, Script, UI, WebSocket, DOM, *TypeScript* and more. (HTML/CSS/JavaScript)
-- Socket and Web I/O, response, Command with Linux, File system, cookie, Session, json, redis, namespace, OOP, ThinkPHP, PDO/MySQLi (SQL) and more. (PHP)
-- DDL, Date, String(text), Check, CREATE, DROP, ALTER, INSERT, UPDATE, DELETE, TRUNCATE, User, Find(Show/SELECT), Error, regular and more. (SQL)
-- Git, Bash, Linux, File System, Socket, Web (Nginx/Apache), Process, thread and more. (Open source and others)
+## Learn
 
-## Learning
-- Java
-- Swift (Part)
-- C language (Part)
-- SQL (Part)
-- JVM all
-- Rust (many)
-- More……
+- [x] Python
+- [x] C、C++/OI
+- [x] Rust
+- [x] Go
+- [x] PHP
+- [x] HTML
+- [x] CSS
+- [x] JavaScript (React.js, Vue.js and more)
+- [x] TypeScript
+- [x] Linux and related branches (System and more)
+- [x] SQL
+- [x] Swift
+- [x] Ruby
+- [x] Bash
+- [x] E (易语言)
+- [ ] Java
+- [ ] C#
+
+If checked, I am **proficient or basically master**. If unchecked, I am **learning**.
 
 ## Team
 
 [K Software Team](https://github.com/K-Software-Team)
 
-## 💬
-### I am a junior high school student from Xiamen No. 1 Middle School Jimei Branch. 🌱
+## About More
+
+**I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.**
+
 ### Thank you for your attention!
