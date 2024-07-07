@@ -1,6 +1,6 @@
 ### Hi👋! My name is karsl. A boy born in 2012 from Xiamen, Fujian Province, China.
 
-I love learning, and I love Python⚡ very much! And Proficient in front-end programming languages
+**I love learning, and I love Python⚡ very much! And Proficient in front-end programming languages.**
 
 ### I love computers and everything about information technology.
 
@@ -40,6 +40,6 @@ If checked, I am **proficient or basically master**. If unchecked, I am **learni
 
 ## About More
 
-**I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.**
+### I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.
 
 ### Thank you for your attention!
