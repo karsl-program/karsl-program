@@ -8,9 +8,6 @@
 
 ![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=karsl-program&show_icons=true&theme=dark&include_all_commits=true)
 
-![program-zoubg's Github Stats](https://stats.deeptrain.net/user/karsl-program/)
-
-![K-Software-Team's Github Stats](https://stats.deeptrain.net/user/K-Software-Team/)
 
 ## Learn
 
