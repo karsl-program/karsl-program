@@ -1,6 +1,6 @@
 ### Hi👋! My name is karsl. A boy born in 2012 from Xiamen, Fujian Province, China.
 
-**I love learning, and I love Python⚡ very much! And Proficient in front-end programming languages.**
+**I am a OIer & MOer & PhOer. My website is on: [karsl | break, don't return.](https://karsl-program.github.io/).**
 
 ### I love computers and everything about information technology.
 
@@ -26,17 +26,18 @@
 - [x] Ruby
 - [x] Bash
 - [x] E (易语言)
-- [ ] Java
-- [ ] C#
 
-If checked, I am **proficient or basically master**. If unchecked, I am **learning**.
+## Orz and thanks
+
+- [@Harlan1015](https://github.com/Harlan1015) (OIer and maths dalao)
+- [@cleversheep2011](https://github.com/cleversheep2011) (developer and partner, OIer and maths dalao)
 
 ## Team
 
-[K Software Team](https://github.com/K-Software-Team)
+[VLineLang Project](https://github.com/VLineLang)
 
 ## About More
 
-### I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.
+**I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.**
 
-### Thank you for your attention!
+**Thank you for your attention!**
