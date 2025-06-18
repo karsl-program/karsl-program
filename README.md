@@ -34,7 +34,11 @@
 
 ## Team
 
+[MhZk Team](https://github.com/mh-zk)
+
 [VLineLang Project](https://github.com/VLineLang)
+
+[Blue Archive Tracker](https://github.com/BaTracker/)
 
 ## About More
 
