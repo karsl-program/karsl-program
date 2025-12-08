@@ -4,10 +4,7 @@
 
 ### I love computers and everything about information technology.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsl-program&layout=compact)
-
-![Program-zoubg's Github Readme](https://github-readme-stats.vercel.app/api?username=karsl-program&show_icons=true&theme=dark&include_all_commits=true)
-
+You can visit my homepage to know something about me: <https://karsl.sheartm.com>.
 
 ## Learn
 
@@ -31,14 +28,6 @@
 
 - [@Harlan1015](https://github.com/Harlan1015) (OIer and maths dalao)
 - [@cleversheep2011](https://github.com/cleversheep2011) (developer and partner, OIer and maths dalao)
-
-## Team
-
-[@MhZk Team](https://github.com/mh-zk)
-
-[@VLineLang Project](https://github.com/VLineLang)
-
-[@Blue Archive Tracker](https://github.com/BaTracker/)
 
 ## About More
 
