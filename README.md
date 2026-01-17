@@ -4,8 +4,6 @@
 
 ### I love computers and everything about information technology.
 
-You can visit my homepage to know something about me: <https://karsl.sheartm.com>.
-
 ## Learn
 
 - [x] Python
