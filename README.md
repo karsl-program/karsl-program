@@ -29,6 +29,6 @@
 
 ## About More
 
-**I am a junior high school student from *Xiamen No. 1 Middle School Jimei Branch*.**
+**I am a junior high school student.**
 
 **Thank you for your attention!**
